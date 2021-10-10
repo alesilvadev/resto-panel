@@ -1,0 +1,136 @@
+.panel-box {
+  background-color: #fff;
+  margin-top: 20px;
+  border-radius: 25px;
+  padding: 30px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.panel-box-title {
+  margin-left: 40px;
+  margin-top: 20px;
+  color: #4b4848;
+  font-weight: 700;
+  font-size: 1.6em !important;
+  margin-bottom: 5px;
+}
+
+.panel-box-title svg {
+  cursor: pointer;
+}
+
+.panel-box-title svg:hover {
+  color: #007bff;
+}
+
+.panel-box-description {
+  margin-left: 40px;
+  color: #a0a0a0;
+  font-size: 0.9em;
+}
+
+.list-box {
+  display: inline-flex !important;
+  padding: 10px 0px;
+}
+
+.list-box svg {
+  cursor: pointer;
+}
+
+.list-box-title {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #4f4f4f;
+}
+
+.success-tag {
+  background-color: #499949;
+  padding: 3px 5px;
+  margin-left: 6px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.8em;
+}
+
+.danger-tag {
+  background-color: #c62d2d;
+  padding: 3px 5px;
+  margin-left: 6px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.8em;
+}
+
+.panel-box-left {
+  text-align: center !important;
+  padding: 20px 40px;
+}
+
+.panel-box h5 {
+  margin: 15px 0;
+}
+
+.panel-box-left-label {
+  text-align: left;
+  padding-left: 5px;
+  color: #b9b9b9;
+  font-size: 0.9em;
+  margin-top: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.panel-box-container {
+  padding: 20px 0 !important;
+}
+
+.active-tab {
+  background-color: #d23540 !important;
+  color: #fff !important;
+}
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+hr {
+  border: 1px solid #f4f4f4;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center !important;
+  align-content: center;
+}
+
+.spinner-color {
+  color: #efefef;
+}
+
+.recharts-wrapper {
+  width: 100% !important;
+}
+
+.panel-header-icon {
+  width: 32px;
+  height: 52px;
+  margin-left: 20px;
+  color: #c5c5c5;
+}
+
+.panel-box-container-rigth {
+  padding: 20px 40px;
+}
+
+.btn-theme {
+  color: #fff !important;
+  background-color: #a91620 !important;
+  margin-top: 20px !important;
+}

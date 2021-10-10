@@ -1,0 +1,38 @@
+#audit .list-box{
+    padding: 0 !important;
+}
+
+.audit-title{
+    font-size: 1.4em;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.audit-time{
+    font-weight: 400;
+    color: #b1b0b0;
+    font-size: 1.0em;
+}
+
+.audit-info{
+    margin-top: 5px;
+}
+
+.audit-user{
+    margin-left: 20px;
+    background-color: #5876ff;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+
+.audit-description-container{
+    margin-top: 8px;
+}
+
+.audit-description{
+    font-size: 1em !important;
+    color: #484848;
+    font-weight: 400;
+}
